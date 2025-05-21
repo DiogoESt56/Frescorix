@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    background-color: #000;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo-header {
+    width: 100px;
+    height: 10vh;
+    background-color: #000;
+    font-size: large;
+}
