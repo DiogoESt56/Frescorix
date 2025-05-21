@@ -1,0 +1,6 @@
+Coisas importantes:
+Blynk (Plataforma que cria APPs de maneira "facil")
+ESP32 (um arduino de baixo custo que pode ser ligado a um cabo USB ou Wi-Fi)
+Sensor de infravermelho
+Emissor de infravermelho
+Sensor de presença
